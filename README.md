@@ -1,4 +1,4 @@
-# horn-agent
+# pycomptheory
 
 A Python 3.12 library for computational theory: build DFAs, NFAs, ε-NFAs, and Finite Tree Automata (FTA), then convert them to regular expressions or regular tree expressions represented as traversable ASTs.
 

@@ -1,5 +1,5 @@
 [project]
-name = "horn-agent"
+name = "pycomptheory"
 version = "0.1.0"
 description = "Computational theory: DFA, NFA, ε-NFA, regular expression ASTs, and Finite Tree Automata (FTA) with regular tree expressions"
 requires-python = ">=3.12"
